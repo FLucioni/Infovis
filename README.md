@@ -1,2 +1,5 @@
 # Infovis
-2do Cuatrimestre 2021
+
+## 2do cuatrimestres 
+
+https://flucioni.github.io/infovis/index.html
