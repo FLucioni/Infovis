@@ -1,1 +1,8 @@
-
+ valores brutos
+cambios relativos
+patrones agregados
+datos exploratorio
+datos multivariados
+cepillado y enlace
+ polilínea
+ glifos 
