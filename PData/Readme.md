@@ -24,6 +24,16 @@ Como resultado se podrá comparar mi rendimiento entre el año 2020 y el 2021 y 
 
 La recolección de datos se realiza mediante dos aplicaciones: 
 
+![SH](SH.jpg)  | ![RT](RT.jpg)  
+-------------|-------------
+   **Samsung Health**|**Run Tracker**
+![SHA](SHA.jpg)|![RTA](RTA.jpg)
+
+                       
+
+
+
+
 
 
 
