@@ -22,6 +22,9 @@ La recolección de datos se realiza mediante dos aplicaciones:
 ![SHA](SHA.jpg)|![RTA](RTA.jpg)
 
 
+ # [Datos crudos](https://github.com/FLucioni/infovis/blob/gh-pages/PData/Running_datos.tsv) 
+
+
   # [Visualizaciones](https://public.tableau.com/app/profile/francisco8740/viz/Running2020-21_16305244690990/MinutosxMesxEstacion)
  
                        
